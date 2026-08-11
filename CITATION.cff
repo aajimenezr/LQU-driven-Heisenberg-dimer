@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "LQU-driven Heisenberg dimer"
+abstract: >-
+  Code to reproduce the figures of the paper "General perturbation
+  theory for local quantum uncertainty and its formulation in the
+  linear-response regime," applied to the isotropic Heisenberg dimer
+  under a periodic driving field.
+authors:
+  - family-names: Jimenez-Romero
+    given-names: A. A.
+    affiliation: >-
+      Centro de Nanociencias y Nanotecnología, Universidad Nacional
+      Autónoma de México
+  - family-names: Rojas
+    given-names: F.
+    affiliation: >-
+      Centro de Nanociencias y Nanotecnología, Universidad Nacional
+      Autónoma de México
+repository-code: "https://github.com/aajimenezr/LQU-driven-Heisenberg-dimer"
+license: MIT
+preferred-citation:
+  type: article
+  title: "General perturbation theory for local quantum uncertainty and its formulation in the linear-response regime"
+  authors:
+    - family-names: Jimenez-Romero
+      given-names: A. A.
+    - family-names: Rojas
+      given-names: F.
+  journal: "Physical Review A"
+  year: 2026
+  doi: "10.1103/9pz4-6v9q"
+  url: "https://doi.org/10.1103/9pz4-6v9q"
+  status: advance-online
