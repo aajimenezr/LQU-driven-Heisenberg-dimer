@@ -47,4 +47,4 @@ See `CITATION.cff` for machine-readable citation metadata.
 
 ## License
 
-MIT License (or specify your preferred license).
+MIT License.
